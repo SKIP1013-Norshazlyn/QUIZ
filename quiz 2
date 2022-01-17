@@ -20,6 +20,7 @@ public class question1 {
 		if(percentage < 75)
 		{
 			System.out.printf("Percentage of class attended is " +percentage);
+			System.out.println(" ");
 			System.out.println("You are not allowed to sit in exam. ");
 		}
 		else
